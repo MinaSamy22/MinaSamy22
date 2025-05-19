@@ -9,20 +9,24 @@ Fresh Graduate from Canadian International College (CIC), Department of Business
 ## 📝 Title 
 <img align= "right" alt="coding" style="width: 300px;" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-- 🔭 I do not work currently [create project](https://github.com/Abdulrahman-Hany/Wealt-Home.git)
 - 🌱 I’m currently learning **typescript**
-- 🤝 I’m looking for help with [Wealt-Home](https://github.com/Abdulrahman-Hany/Wealt-Home.git)
-- 💬 Ask me about **HTML , CSS ,JavaScript**
-- 📫 How to reach me **abdohotmail44@gmail.com**
+- 💬 Ask me about **HTML , CSS , JavaScript , PHP , Laravel , SQL , PowerBI**
+- 📫 How to reach me **minasamy792@gmail.com**
 - ⚡ Fun fact **I love meeting new people and eating food!**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-##### <b>Prgoramming Languages :</b>
+##### <b>Programming Languages & Tools:</b>
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
+
 
 ### <b> Front-End :</b>
    <p align="left"> 
